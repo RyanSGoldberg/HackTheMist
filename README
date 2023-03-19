@@ -1,0 +1,2 @@
+# Greenary
+To run the project just open the notebook with Jupyter-Lab or Colab. Using the ipython widgets we pipelined Hugging Face's NER and Extractive Summarization Models to summarize the sustainability of companies and their partners
